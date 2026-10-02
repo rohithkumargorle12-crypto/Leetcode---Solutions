@@ -1,4 +1,4 @@
-// LeetCode: Two Sum
+// LeetCode1: Two Sum
 // Time Complexity: O(n²)
 // Space Complexity: O(1)
 class Solution

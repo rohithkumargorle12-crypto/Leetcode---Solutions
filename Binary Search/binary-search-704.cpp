@@ -1,4 +1,4 @@
-// LeetCode: Binary Search
+// LeetCode704: Binary Search
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 class Solution

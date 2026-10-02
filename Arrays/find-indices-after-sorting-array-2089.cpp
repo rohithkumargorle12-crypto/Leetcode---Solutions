@@ -1,3 +1,6 @@
+// LeetCode2089: Find Target Indices After Sorting Array
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 class Solution
 {
 public:

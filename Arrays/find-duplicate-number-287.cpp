@@ -1,3 +1,6 @@
+// LeetCode287: Find the Duplicate Number
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 class Solution
 {
 public:
